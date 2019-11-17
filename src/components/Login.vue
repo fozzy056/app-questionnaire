@@ -1,5 +1,6 @@
 <template>
 <div class="row">
+  <!-- formulaire de login -- 1/11 -->
     <form class="col s12">
       <div class="row">
         <div class="input-field col s2 offset-s4">
