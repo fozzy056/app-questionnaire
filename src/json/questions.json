@@ -1,0 +1,54 @@
+{
+    "questions": [
+
+{
+    "numQuestion":1,
+    "question":"Tu aimes les frites ?",
+    "attendu":"Oui"
+}
+{
+    "numQuestion":2,
+    "question":"Tu aimes le chocolat ?",
+    "attendu":"Oui"
+}
+{
+    "numQuestion":3,
+    "question":"Tu aimes les amandes ?",
+    "attendu":"Non"
+}
+{
+    "numQuestion":4,
+    "question":"Tu aimes les huitres ?",
+    "attendu":"Non"
+}
+{
+    "numQuestion":5,
+    "question":"Tu aimes les fraises ?",
+    "attendu":"Oui"
+}
+{
+    "numQuestion":6,
+    "question":"Tu aimes les gateaux ?",
+    "attendu":"Oui"
+}
+{
+    "numQuestion":7,
+    "question":"Tu aimes les saucisses ?",
+    "attendu":"Non"
+}
+{
+    "numQuestion":8,
+    "question":"Tu aimes les haricots ?",
+    "attendu":"Non"
+}
+{
+    "numQuestion":9,
+    "question":"Tu aimes les framboises ?",
+    "attendu":"Oui"
+}
+{
+    "numQuestion":10,
+    "question":"Tu aimes la purée mousline ?",
+    "attendu":"Oui"
+}
+]}
